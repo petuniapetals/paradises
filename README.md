@@ -1,0 +1,2 @@
+# paradises
+A static webpage
